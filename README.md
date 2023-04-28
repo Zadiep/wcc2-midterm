@@ -1,2 +1,2 @@
-# wcc2-week6-midterm
+# term1-project1
  
